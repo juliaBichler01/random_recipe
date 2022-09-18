@@ -1,0 +1,16 @@
+{
+  "recipes": [
+    {
+      "name": "Tomaten-Zuccini-Auflauf",
+      "source": "Pinterest",
+      "season": ["spring", "summer", "fall"],
+      "main_ingredients": ["tomaten", "zuccini", "ei"]
+    },
+    {
+      "name": "Mediteraner Nudelsalad mit Rucola",
+      "source": "Pinterest",
+      "season": ["summer", "fall"],
+      "main_ingredients": ["nudeln", "tomaten", "rucola", "oliven", "mozarella"]
+    }
+  ]
+}
